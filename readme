@@ -1,0 +1,6 @@
+0. Only capture $ or dollars
+1. Compile source code: $javac MoneyMatch.java
+2. Execute: $java MoneyMatch input.txt
+Program will generate an output file with extension .out under current directory.e.g. input.txt.out
+
+ 

@@ -1,0 +1,32 @@
+Table S-39				
+				
+PBGC's Historic Premium Rates				
+Single-Employer Program				
+				
+				
+For Plan Years		Flat-Rate	Variable-Rate	Premium Rate for 
+Beginning		Premium	Premium*	Certain Terminated Plans**
+		(per participant)		(per participant)
+				
+	"September 2, 1974 - December 31, 1977"	$1.00	 --	--
+	1978 - 1985	  2.60	 --	--
+	1986 - 1987	  8.50	 --	--
+	1988 - 1990	16.00	"$6 per $1,000 of unfunded vested benefits"	--
+	1991 - 2005	19.00	"$9 per $1,000 of unfunded vested benefits                              "	--
+	2006	     30.00***	"$9 per $1,000 of unfunded vested benefits "	"$1,250 per year for 3 years"
+	2007	31.00	"$9 per $1,000 of unfunded vested benefits "	"$1,250 per year for 3 years"
+	2008	33.00	"$9 per $1,000 of unfunded vested benefits "	"$1,250 per year for 3 years"
+	2009	34.00	"$9 per $1,000 of unfunded vested benefits "	"$1,250 per year for 3 years"
+	2010 - 2011	35.00	"$9 per $1,000 of unfunded vested benefits"	"$1,250 per year for 3 years"
+				
+"* Only vested liabilities are used when determining underfunding for variable-rate premium payment purposes.  Prior to July 1, 1996, the variable-rate premium"				
+"    was capped at various levels.  Effective beginning with the 2007 plan year, a cap was imposed on the variable-rate premium for plans of small employers. If all "				
+"    contributing sponsors to the plan and their controlled group members have 25 or fewer employees, the per-participant variable-rate premium for that plan will"				
+    be capped at $5.00 times the number of participants in the plan.  (The cap for the plan as a whole is effectively $5.00 times the square of the number of plan 				
+"    participants.)  Effective beginning with the 2008 plan year, an exemption that allowed some underfunded plans to escape payment of the variable-rate premium"				
+      was eliminated and a modification was made to how underfunding is determined for variable-rate premium purposes.				
+**  Applies to certain distress or involuntary pension plan terminations that occur after 2005.  For certain airline-related plans that terminate within five years of  				
+"       electing to be covered under special funding rules, the annual termination premium (payable for three years) is $2,500 per participant.      "				
+"*** Beginning in 2007, this amount is adjusted annually based on changes in the national average wage index (as defined in section 209(k)(1) of the Social"				
+   Security Act). The premium rate will not decline even if the national average wage index declines.  The adjusted premium rate is rounded to the nearest				
+   multiple of $1.  				
